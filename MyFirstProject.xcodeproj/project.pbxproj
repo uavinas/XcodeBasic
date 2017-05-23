@@ -14,6 +14,8 @@
 		86C560571ED3CFCC003A01FB /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C560561ED3CFCC003A01FB /* HomeViewController.swift */; };
 		86FAB3551ED417300000837F /* StudentListViewControler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FAB3541ED417300000837F /* StudentListViewControler.swift */; };
 		86FAB3571ED4278D0000837F /* FruitsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FAB3561ED4278D0000837F /* FruitsViewController.swift */; };
+		86FAB35B1ED441040000837F /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FAB35A1ED441040000837F /* PlayerViewController.swift */; };
+		86FAB35D1ED447E00000837F /* UserRegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FAB35C1ED447E00000837F /* UserRegistrationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		86C560561ED3CFCC003A01FB /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		86FAB3541ED417300000837F /* StudentListViewControler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentListViewControler.swift; sourceTree = "<group>"; };
 		86FAB3561ED4278D0000837F /* FruitsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FruitsViewController.swift; sourceTree = "<group>"; };
+		86FAB35A1ED441040000837F /* PlayerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
+		86FAB35C1ED447E00000837F /* UserRegistrationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserRegistrationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				86C560561ED3CFCC003A01FB /* HomeViewController.swift */,
 				86FAB3541ED417300000837F /* StudentListViewControler.swift */,
 				86FAB3561ED4278D0000837F /* FruitsViewController.swift */,
+				86FAB35A1ED441040000837F /* PlayerViewController.swift */,
+				86FAB35C1ED447E00000837F /* UserRegistrationViewController.swift */,
 			);
 			path = MyFirstProject;
 			sourceTree = "<group>";
@@ -146,6 +152,8 @@
 				86FAB3571ED4278D0000837F /* FruitsViewController.swift in Sources */,
 				86C560431ED3CB0D003A01FB /* AppDelegate.swift in Sources */,
 				86C560571ED3CFCC003A01FB /* HomeViewController.swift in Sources */,
+				86FAB35D1ED447E00000837F /* UserRegistrationViewController.swift in Sources */,
+				86FAB35B1ED441040000837F /* PlayerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
